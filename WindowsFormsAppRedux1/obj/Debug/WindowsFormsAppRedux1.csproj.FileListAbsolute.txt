@@ -1,0 +1,10 @@
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\bin\Debug\WindowsFormsAppRedux1.exe.config
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\bin\Debug\WindowsFormsAppRedux1.exe
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\bin\Debug\WindowsFormsAppRedux1.pdb
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.csprojAssemblyReference.cache
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.Form1.resources
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.Properties.Resources.resources
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.csproj.GenerateResource.cache
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.csproj.CoreCompileInputs.cache
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.exe
+C:\Users\kasra\source\repos\WindowsFormsAppRedux1\WindowsFormsAppRedux1\obj\Debug\WindowsFormsAppRedux1.pdb
